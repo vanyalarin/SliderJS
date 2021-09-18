@@ -1,1 +1,1 @@
-# SliderJS
+[LINK](https://vanyalarin.github.io/SliderJS/)
